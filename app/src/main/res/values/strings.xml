@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">eventos</string>
+    <string name="first_fragment_label">List Events Fragment</string>
+    <string name="second_fragment_label">Events Fragment</string>
+    <string name="confirm_peoples_zero">Nenhum confirmado</string>
+    <string name="error_lbl">Não foi possivel carregar! tente de novo depois.</string>
+    <string name="checkIn_ok_lbl">Check-In concluido! :)</string>
+    <string name="btn_submit_lbl">Confirmar</string>
+    <string name="oops_error_lbl">Oops!</string>
+    <string name="message_error_lbl">Houve algum problema no checkIn, verifique sua conexão e tente mais tarde.</string>
+    <string name="google_maps_key">AIzaSyBce-j1AKkZZQOWqMlBHK8S2qUhFxECl1o</string>
+    <string name="map_location_lbl">Localizacao no mapa</string>
+    <string name="date_lbl">Data:</string>
+    <string name="locate_lbl">local</string>
+    <string name="mock_locate_lbl">londrina</string>
+    <string name="location_lbl">Estacionamento (entrada principal do Catuaí Shopping Londrina)</string>
+    <string name="title_lbl">Eventos</string>
+    <string name="about_event_lbl">About event</string>
+    <string name="title_event_lbl">Sobre o evento</string>
+    <string name="description_event_lbl">Description here</string>
+    <string name="details_event_lbl">Detalhes do evento</string>
+    <string name="confirm_event_lbl">Confirmados:</string>
+    <string name="confirmed_event_lbl">12.000</string>
+    <string name="checkIn_btn_lbl">Check-In</string>
+    <string name="share_btn_lbl">Compartilhar</string>
+    <string name="name_hint_lbl">Nome</string>
+    <string name="email_hint_lbl">E-mail</string>
+</resources>
